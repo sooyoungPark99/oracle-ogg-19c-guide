@@ -1,7 +1,6 @@
 # Oracle GoldenGate 19c 구성 가이드
 
 Oracle ASM 환경에서 GoldenGate 19c를 설치하고 orcl → clonedb 단방향 복제를 구성하는 실습 가이드입니다.
-VirtualBox 기반의 실습 환경에서 진행했습니다.
 
 ---
 
